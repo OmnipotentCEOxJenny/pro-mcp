@@ -1,4 +1,4 @@
-# Example: the ToolPal mood checker (real local run, 2026-10-22)
+# Example: the Easy MCP mood checker (real local run, 2026-10-22)
 
 Run: `python tests/test_sentiment_server.py` on the builder's computer (local only, not in-app).
 

@@ -8,10 +8,10 @@ from mcp import ClientSession
 from mcp.client.streamable_http import streamablehttp_client
 
 root = pathlib.Path(__file__).resolve().parent.parent
-port = os.environ.get("TOOLPAL_PORT", "7871")
+port = os.environ.get("EASYMCP_PORT", "7871")
 url = f"http://127.0.0.1:{port}/gradio_api/mcp/"
 proc = subprocess.Popen([sys.executable, str(root / "scripts/sentiment_server.py")],
-                        env={**os.environ, "TOOLPAL_PORT": port},
+                        env={**os.environ, "EASYMCP_PORT": port},
                         stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
 
 async def run():

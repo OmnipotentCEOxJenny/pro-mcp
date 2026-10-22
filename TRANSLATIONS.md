@@ -1,13 +1,13 @@
-# ToolPal: translated summaries
+# Easy MCP: translated summaries
 
 **Honesty note:** every summary below is a machine translation made on 2026-10-22 and has **not been reviewed by a native speaker**. The English README is the authoritative version. Corrections are welcome through a GitHub issue.
 
 The plugin's AI instructions tell it to answer in the user's language and keep commands, file names and setting names unchanged.
 
 ## Español (`es`)
-**ToolPal**
+**Easy MCP**
 
-ToolPal ayuda a tu asistente de IA a usar pequeños programas que funcionan en tu propio ordenador, como un detector del tono de un texto. Te guía paso a paso, gratis.
+Easy MCP ayuda a tu asistente de IA a usar pequeños programas que funcionan en tu propio ordenador, como un detector del tono de un texto. Te guía paso a paso, gratis.
 
 **Limits / honest assessment:**
 - Solo probado localmente; aún no probado dentro de Cursor ni Grok.
@@ -15,9 +15,9 @@ ToolPal ayuda a tu asistente de IA a usar pequeños programas que funcionan en t
 - El detector de tono funciona mejor en inglés.
 
 ## Français (`fr`)
-**ToolPal**
+**Easy MCP**
 
-ToolPal aide votre assistant IA à utiliser de petits programmes qui tournent sur votre propre ordinateur, comme un détecteur d'humeur de texte. Il vous guide pas à pas, gratuitement.
+Easy MCP aide votre assistant IA à utiliser de petits programmes qui tournent sur votre propre ordinateur, comme un détecteur d'humeur de texte. Il vous guide pas à pas, gratuitement.
 
 **Limits / honest assessment:**
 - Testé seulement en local ; pas encore testé dans Cursor ou Grok.
@@ -25,9 +25,9 @@ ToolPal aide votre assistant IA à utiliser de petits programmes qui tournent su
 - Le détecteur d'humeur fonctionne mieux en anglais.
 
 ## Português (`pt`)
-**ToolPal**
+**Easy MCP**
 
-O ToolPal ajuda seu assistente de IA a usar pequenos programas que rodam no seu próprio computador, como um detector do tom de um texto. Ele guia você passo a passo, de graça.
+O Easy MCP ajuda seu assistente de IA a usar pequenos programas que rodam no seu próprio computador, como um detector do tom de um texto. Ele guia você passo a passo, de graça.
 
 **Limits / honest assessment:**
 - Testado só localmente; ainda não testado no Cursor ou no Grok.
@@ -35,9 +35,9 @@ O ToolPal ajuda seu assistente de IA a usar pequenos programas que rodam no seu 
 - O detector de tom funciona melhor em inglês.
 
 ## Deutsch (`de`)
-**ToolPal**
+**Easy MCP**
 
-ToolPal hilft Ihrem KI-Assistenten, kleine Programme auf Ihrem eigenen Computer zu nutzen, etwa einen Stimmungsprüfer für Texte. Schritt für Schritt erklärt und kostenlos.
+Easy MCP hilft Ihrem KI-Assistenten, kleine Programme auf Ihrem eigenen Computer zu nutzen, etwa einen Stimmungsprüfer für Texte. Schritt für Schritt erklärt und kostenlos.
 
 **Limits / honest assessment:**
 - Nur lokal getestet; noch nicht in Cursor oder Grok getestet.
@@ -45,9 +45,9 @@ ToolPal hilft Ihrem KI-Assistenten, kleine Programme auf Ihrem eigenen Computer 
 - Der Stimmungsprüfer funktioniert am besten auf Englisch.
 
 ## Italiano (`it`)
-**ToolPal**
+**Easy MCP**
 
-ToolPal aiuta il tuo assistente IA a usare piccoli programmi che girano sul tuo computer, come un rilevatore del tono di un testo. Ti guida passo dopo passo, gratis.
+Easy MCP aiuta il tuo assistente IA a usare piccoli programmi che girano sul tuo computer, come un rilevatore del tono di un testo. Ti guida passo dopo passo, gratis.
 
 **Limits / honest assessment:**
 - Testato solo in locale; non ancora testato in Cursor o Grok.
@@ -55,9 +55,9 @@ ToolPal aiuta il tuo assistente IA a usare piccoli programmi che girano sul tuo 
 - Il rilevatore di tono funziona meglio in inglese.
 
 ## Nederlands (`nl`)
-**ToolPal**
+**Easy MCP**
 
-ToolPal helpt je AI-assistent kleine programma's te gebruiken die op je eigen computer draaien, zoals een stemmingscheck voor tekst. Stap voor stap uitgelegd en gratis.
+Easy MCP helpt je AI-assistent kleine programma's te gebruiken die op je eigen computer draaien, zoals een stemmingscheck voor tekst. Stap voor stap uitgelegd en gratis.
 
 **Limits / honest assessment:**
 - Alleen lokaal getest; nog niet getest in Cursor of Grok.
@@ -65,9 +65,9 @@ ToolPal helpt je AI-assistent kleine programma's te gebruiken die op je eigen co
 - De stemmingscheck werkt het best in het Engels.
 
 ## Polski (`pl`)
-**ToolPal**
+**Easy MCP**
 
-ToolPal pomaga asystentowi AI korzystać z małych programów działających na Twoim komputerze, na przykład z oceny nastroju tekstu. Prowadzi krok po kroku, za darmo.
+Easy MCP pomaga asystentowi AI korzystać z małych programów działających na Twoim komputerze, na przykład z oceny nastroju tekstu. Prowadzi krok po kroku, za darmo.
 
 **Limits / honest assessment:**
 - Testowany tylko lokalnie; jeszcze nie w Cursor ani Grok.
@@ -75,9 +75,9 @@ ToolPal pomaga asystentowi AI korzystać z małych programów działających na 
 - Ocena nastroju działa najlepiej po angielsku.
 
 ## Русский (`ru`)
-**ToolPal**
+**Easy MCP**
 
-ToolPal помогает вашему ИИ-ассистенту пользоваться небольшими программами на вашем компьютере, например определителем настроения текста. Пошаговые инструкции, бесплатно.
+Easy MCP помогает вашему ИИ-ассистенту пользоваться небольшими программами на вашем компьютере, например определителем настроения текста. Пошаговые инструкции, бесплатно.
 
 **Limits / honest assessment:**
 - Проверен только локально; ещё не проверен в Cursor или Grok.
@@ -85,9 +85,9 @@ ToolPal помогает вашему ИИ-ассистенту пользова
 - Определитель настроения лучше всего работает с английским.
 
 ## Українська (`uk`)
-**ToolPal**
+**Easy MCP**
 
-ToolPal допомагає вашому ШІ-асистенту користуватися невеликими програмами на вашому комп'ютері, наприклад визначником настрою тексту. Покрокові інструкції, безкоштовно.
+Easy MCP допомагає вашому ШІ-асистенту користуватися невеликими програмами на вашому комп'ютері, наприклад визначником настрою тексту. Покрокові інструкції, безкоштовно.
 
 **Limits / honest assessment:**
 - Перевірено лише локально; ще не перевірено в Cursor чи Grok.
@@ -95,9 +95,9 @@ ToolPal допомагає вашому ШІ-асистенту користув
 - Визначник настрою найкраще працює з англійською.
 
 ## Türkçe (`tr`)
-**ToolPal**
+**Easy MCP**
 
-ToolPal, yapay zekâ asistanınızın kendi bilgisayarınızda çalışan küçük programları kullanmasına yardım eder; örneğin bir metnin duygu tonunu ölçen bir araç. Adım adım ve ücretsiz.
+Easy MCP, yapay zekâ asistanınızın kendi bilgisayarınızda çalışan küçük programları kullanmasına yardım eder; örneğin bir metnin duygu tonunu ölçen bir araç. Adım adım ve ücretsiz.
 
 **Limits / honest assessment:**
 - Yalnızca yerel olarak test edildi; Cursor veya Grok içinde henüz test edilmedi.
@@ -105,9 +105,9 @@ ToolPal, yapay zekâ asistanınızın kendi bilgisayarınızda çalışan küç�
 - Duygu ölçer en iyi İngilizcede çalışır.
 
 ## العربية (`ar`)
-**ToolPal**
+**Easy MCP**
 
-يساعد ToolPal مساعد الذكاء الاصطناعي على استخدام برامج صغيرة تعمل على حاسوبك، مثل أداة تقيس مزاج النص. يرشدك خطوة بخطوة ومجانًا.
+يساعد Easy MCP مساعد الذكاء الاصطناعي على استخدام برامج صغيرة تعمل على حاسوبك، مثل أداة تقيس مزاج النص. يرشدك خطوة بخطوة ومجانًا.
 
 **Limits / honest assessment:**
 - تم اختباره محليًا فقط؛ لم يُختبر بعد داخل Cursor أو Grok.
@@ -115,9 +115,9 @@ ToolPal, yapay zekâ asistanınızın kendi bilgisayarınızda çalışan küç�
 - أداة المزاج تعمل بشكل أفضل مع الإنجليزية.
 
 ## עברית (`he`)
-**ToolPal**
+**Easy MCP**
 
-ToolPal עוזר לעוזר הבינה המלאכותית שלך להשתמש בתוכנות קטנות שרצות על המחשב שלך, כמו בודק מצב רוח של טקסט. הדרכה צעד אחר צעד, בחינם.
+Easy MCP עוזר לעוזר הבינה המלאכותית שלך להשתמש בתוכנות קטנות שרצות על המחשב שלך, כמו בודק מצב רוח של טקסט. הדרכה צעד אחר צעד, בחינם.
 
 **Limits / honest assessment:**
 - נבדק רק מקומית; עדיין לא נבדק בתוך Cursor או Grok.
@@ -125,9 +125,9 @@ ToolPal עוזר לעוזר הבינה המלאכותית שלך להשתמש ב
 - בודק מצב הרוח עובד הכי טוב באנגלית.
 
 ## فارسی (`fa`)
-**ToolPal**
+**Easy MCP**
 
-ToolPal به دستیار هوش مصنوعی شما کمک می‌کند از برنامه‌های کوچکی که روی رایانهٔ خودتان اجرا می‌شوند استفاده کند، مثل ابزاری که حال‌وهوای متن را می‌سنجد. گام‌به‌گام و رایگان.
+Easy MCP به دستیار هوش مصنوعی شما کمک می‌کند از برنامه‌های کوچکی که روی رایانهٔ خودتان اجرا می‌شوند استفاده کند، مثل ابزاری که حال‌وهوای متن را می‌سنجد. گام‌به‌گام و رایگان.
 
 **Limits / honest assessment:**
 - فقط به‌صورت محلی آزمایش شده؛ هنوز در Cursor یا Grok آزمایش نشده.
@@ -135,9 +135,9 @@ ToolPal به دستیار هوش مصنوعی شما کمک می‌کند از �
 - سنجش حال‌وهوا با انگلیسی بهتر کار می‌کند.
 
 ## हिन्दी (`hi`)
-**ToolPal**
+**Easy MCP**
 
-ToolPal आपके AI सहायक को आपके अपने कंप्यूटर पर चलने वाले छोटे प्रोग्राम इस्तेमाल करने में मदद करता है, जैसे किसी टेक्स्ट का मूड बताने वाला टूल। कदम-दर-कदम, मुफ़्त।
+Easy MCP आपके AI सहायक को आपके अपने कंप्यूटर पर चलने वाले छोटे प्रोग्राम इस्तेमाल करने में मदद करता है, जैसे किसी टेक्स्ट का मूड बताने वाला टूल। कदम-दर-कदम, मुफ़्त।
 
 **Limits / honest assessment:**
 - केवल लोकल रूप से जाँचा गया; Cursor या Grok के अंदर अभी नहीं जाँचा गया।
@@ -145,9 +145,9 @@ ToolPal आपके AI सहायक को आपके अपने कं�
 - मूड टूल अंग्रेज़ी में सबसे अच्छा काम करता है।
 
 ## বাংলা (`bn`)
-**ToolPal**
+**Easy MCP**
 
-ToolPal আপনার AI সহকারীকে আপনার নিজের কম্পিউটারে চলা ছোট প্রোগ্রাম ব্যবহার করতে সাহায্য করে, যেমন লেখার মেজাজ বোঝার টুল। ধাপে ধাপে, বিনামূল্যে।
+Easy MCP আপনার AI সহকারীকে আপনার নিজের কম্পিউটারে চলা ছোট প্রোগ্রাম ব্যবহার করতে সাহায্য করে, যেমন লেখার মেজাজ বোঝার টুল। ধাপে ধাপে, বিনামূল্যে।
 
 **Limits / honest assessment:**
 - শুধু লোকালভাবে পরীক্ষিত; Cursor বা Grok-এর ভেতরে এখনও পরীক্ষা হয়নি।
@@ -155,9 +155,9 @@ ToolPal আপনার AI সহকারীকে আপনার নিজে
 - মেজাজ টুল ইংরেজিতে সবচেয়ে ভালো কাজ করে।
 
 ## اردو (`ur`)
-**ToolPal**
+**Easy MCP**
 
-ToolPal آپ کے AI اسسٹنٹ کو آپ کے اپنے کمپیوٹر پر چلنے والے چھوٹے پروگرام استعمال کرنے میں مدد دیتا ہے، جیسے کسی تحریر کا موڈ بتانے والا ٹول۔ قدم بہ قدم، مفت۔
+Easy MCP آپ کے AI اسسٹنٹ کو آپ کے اپنے کمپیوٹر پر چلنے والے چھوٹے پروگرام استعمال کرنے میں مدد دیتا ہے، جیسے کسی تحریر کا موڈ بتانے والا ٹول۔ قدم بہ قدم، مفت۔
 
 **Limits / honest assessment:**
 - صرف مقامی طور پر جانچا گیا؛ Cursor یا Grok کے اندر ابھی نہیں جانچا گیا۔
@@ -165,9 +165,9 @@ ToolPal آپ کے AI اسسٹنٹ کو آپ کے اپنے کمپیوٹر پر چ
 - موڈ ٹول انگریزی میں بہترین کام کرتا ہے۔
 
 ## 简体中文 (`zh-Hans`)
-**ToolPal**
+**Easy MCP**
 
-ToolPal 帮助你的 AI 助手使用在你自己电脑上运行的小程序，比如判断文字情绪的工具。一步一步讲解，完全免费。
+Easy MCP 帮助你的 AI 助手使用在你自己电脑上运行的小程序，比如判断文字情绪的工具。一步一步讲解，完全免费。
 
 **Limits / honest assessment:**
 - 仅在本地测试；尚未在 Cursor 或 Grok 内测试。
@@ -175,9 +175,9 @@ ToolPal 帮助你的 AI 助手使用在你自己电脑上运行的小程序，�
 - 情绪工具对英文效果最好。
 
 ## 日本語 (`ja`)
-**ToolPal**
+**Easy MCP**
 
-ToolPal は、AI アシスタントが自分のパソコンで動く小さなプログラム（たとえば文章の気分を判定するツール）を使えるようにします。手順を一つずつ案内し、無料です。
+Easy MCP は、AI アシスタントが自分のパソコンで動く小さなプログラム（たとえば文章の気分を判定するツール）を使えるようにします。手順を一つずつ案内し、無料です。
 
 **Limits / honest assessment:**
 - ローカルでのみテスト済み。Cursor や Grok 内ではまだテストしていません。
@@ -185,9 +185,9 @@ ToolPal は、AI アシスタントが自分のパソコンで動く小さなプ
 - 気分判定ツールは英語で最もよく動きます。
 
 ## 한국어 (`ko`)
-**ToolPal**
+**Easy MCP**
 
-ToolPal은 AI 도우미가 내 컴퓨터에서 실행되는 작은 프로그램(예: 글의 기분을 판단하는 도구)을 사용할 수 있게 도와줍니다. 단계별 안내, 무료입니다.
+Easy MCP은 AI 도우미가 내 컴퓨터에서 실행되는 작은 프로그램(예: 글의 기분을 판단하는 도구)을 사용할 수 있게 도와줍니다. 단계별 안내, 무료입니다.
 
 **Limits / honest assessment:**
 - 로컬에서만 테스트했으며 Cursor나 Grok 안에서는 아직 테스트하지 않았습니다.
@@ -195,9 +195,9 @@ ToolPal은 AI 도우미가 내 컴퓨터에서 실행되는 작은 프로그램(
 - 기분 판단 도구는 영어에서 가장 잘 작동합니다.
 
 ## Bahasa Indonesia (`id`)
-**ToolPal**
+**Easy MCP**
 
-ToolPal membantu asisten AI Anda memakai program kecil yang berjalan di komputer Anda sendiri, misalnya alat pengecek suasana hati teks. Dipandu langkah demi langkah, gratis.
+Easy MCP membantu asisten AI Anda memakai program kecil yang berjalan di komputer Anda sendiri, misalnya alat pengecek suasana hati teks. Dipandu langkah demi langkah, gratis.
 
 **Limits / honest assessment:**
 - Hanya diuji secara lokal; belum diuji di dalam Cursor atau Grok.
@@ -205,9 +205,9 @@ ToolPal membantu asisten AI Anda memakai program kecil yang berjalan di komputer
 - Pengecek suasana hati paling baik untuk bahasa Inggris.
 
 ## Tiếng Việt (`vi`)
-**ToolPal**
+**Easy MCP**
 
-ToolPal giúp trợ lý AI của bạn dùng các chương trình nhỏ chạy trên chính máy tính của bạn, như công cụ đoán cảm xúc của văn bản. Hướng dẫn từng bước, miễn phí.
+Easy MCP giúp trợ lý AI của bạn dùng các chương trình nhỏ chạy trên chính máy tính của bạn, như công cụ đoán cảm xúc của văn bản. Hướng dẫn từng bước, miễn phí.
 
 **Limits / honest assessment:**
 - Chỉ thử nghiệm cục bộ; chưa thử bên trong Cursor hay Grok.
@@ -215,9 +215,9 @@ ToolPal giúp trợ lý AI của bạn dùng các chương trình nhỏ chạy t
 - Công cụ cảm xúc hoạt động tốt nhất với tiếng Anh.
 
 ## Kiswahili (`sw`)
-**ToolPal**
+**Easy MCP**
 
-ToolPal husaidia msaidizi wako wa AI kutumia programu ndogo zinazoendeshwa kwenye kompyuta yako mwenyewe, kama kipimo cha hisia za maandishi. Hatua kwa hatua, bure.
+Easy MCP husaidia msaidizi wako wa AI kutumia programu ndogo zinazoendeshwa kwenye kompyuta yako mwenyewe, kama kipimo cha hisia za maandishi. Hatua kwa hatua, bure.
 
 **Limits / honest assessment:**
 - Imejaribiwa kwenye kompyuta tu; bado haijajaribiwa ndani ya Cursor au Grok.
@@ -225,9 +225,9 @@ ToolPal husaidia msaidizi wako wa AI kutumia programu ndogo zinazoendeshwa kweny
 - Kipimo cha hisia hufanya kazi vizuri zaidi kwa Kiingereza.
 
 ## Tagalog / Filipino (`tl`)
-**ToolPal**
+**Easy MCP**
 
-Tinutulungan ng ToolPal ang iyong AI assistant na gumamit ng maliliit na programang tumatakbo sa sarili mong computer, gaya ng pantukoy ng mood ng teksto. Hakbang-hakbang at libre.
+Tinutulungan ng Easy MCP ang iyong AI assistant na gumamit ng maliliit na programang tumatakbo sa sarili mong computer, gaya ng pantukoy ng mood ng teksto. Hakbang-hakbang at libre.
 
 **Limits / honest assessment:**
 - Sinubukan lang nang lokal; hindi pa nasusubukan sa loob ng Cursor o Grok.

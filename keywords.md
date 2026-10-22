@@ -1,6 +1,6 @@
-# ToolPal search keywords
+# Easy MCP search keywords
 
-The same 20 keywords are stored in `.cursor-plugin/plugin.json` (`keywords`), so marketplace search can find ToolPal.
+The same 20 keywords are stored in `.cursor-plugin/plugin.json` (`keywords`), so marketplace search can find Easy MCP.
 
 | Keyword | In plain words |
 |---|---|
