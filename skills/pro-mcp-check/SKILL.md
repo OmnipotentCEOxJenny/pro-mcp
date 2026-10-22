@@ -1,5 +1,5 @@
 ---
-name: easymcp-check
+name: pro-mcp-check
 description: Check that a local tool is really connected and working, and fix common problems in plain language. Use when a user asks whether their tool or MCP server is connected, why the assistant cannot see it, or why a call fails.
 ---
 

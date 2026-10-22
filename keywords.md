@@ -1,6 +1,6 @@
-# Easy MCP search keywords
+# Pro MCP search keywords
 
-The same 20 keywords are stored in `.cursor-plugin/plugin.json` (`keywords`), so marketplace search can find Easy MCP.
+The same 38 keywords are stored in `.cursor-plugin/plugin.json` (`keywords`), so marketplace search can find Pro MCP.
 
 | Keyword | In plain words |
 |---|---|
@@ -24,3 +24,21 @@ The same 20 keywords are stored in `.cursor-plugin/plugin.json` (`keywords`), so
 | free | No cost, no paid services |
 | no-api-key | No sign-up or key needed |
 | multilingual | Answers in your language |
+| pro-mcp | This plugin's name |
+| jenny-echo | The builder |
+| omnipotent-media | The publisher, Omnipotent Media LLC |
+| tool-connector | Connects tools to your assistant |
+| mcp-client | The side that calls a tool |
+| local-server | A tool program running on your computer |
+| localhost | This computer's own address (127.0.0.1) |
+| textblob | The free text library the mood checker uses |
+| text-mood | How a piece of writing sounds |
+| setup-guide | Step-by-step setup |
+| troubleshooting | Fixing common problems |
+| connection-check | Confirming a tool really works |
+| plain-language | Explained in everyday words |
+| open-source | Code anyone can read |
+| mit-license | Free to use and share |
+| cursor-plugin | Built in Cursor's plugin format |
+| python-functions | Turn your own Python code into a tool |
+| self-hosted | You run it yourself |

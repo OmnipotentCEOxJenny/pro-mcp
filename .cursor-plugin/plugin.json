@@ -1,14 +1,14 @@
 {
-  "name": "easymcp",
-  "displayName": "Easy MCP",
+  "name": "pro-mcp",
+  "displayName": "Pro MCP",
   "version": "1.0.0",
   "description": "Free helper that lets your AI assistant use small programs running on your own computer, such as a mood checker for text. It walks you through setting one up, connecting it, and checking it works, step by step.",
   "author": {
     "name": "Rob Domaine / Omnipotent Media LLC"
   },
   "publisher": "Omnipotent Media LLC",
-  "homepage": "https://github.com/OmnipotentCEOxJenny/easymcp",
-  "repository": "https://github.com/OmnipotentCEOxJenny/easymcp",
+  "homepage": "https://github.com/OmnipotentCEOxJenny/pro-mcp",
+  "repository": "https://github.com/OmnipotentCEOxJenny/pro-mcp",
   "license": "MIT",
   "logo": "assets/logo.png",
   "keywords": [
@@ -31,6 +31,24 @@
     "runs-locally",
     "free",
     "no-api-key",
-    "multilingual"
+    "multilingual",
+    "pro-mcp",
+    "jenny-echo",
+    "omnipotent-media",
+    "tool-connector",
+    "mcp-client",
+    "local-server",
+    "localhost",
+    "textblob",
+    "text-mood",
+    "setup-guide",
+    "troubleshooting",
+    "connection-check",
+    "plain-language",
+    "open-source",
+    "mit-license",
+    "cursor-plugin",
+    "python-functions",
+    "self-hosted"
   ]
 }
