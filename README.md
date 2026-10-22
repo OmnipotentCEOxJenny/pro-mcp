@@ -6,7 +6,7 @@ Pro MCP helps your AI assistant use small programs that run on your own computer
 
 ## Project status: done, pending, uncertain
 **Done**
-- 2026-10-22: v1.0.0 draft built (local only; not pushed; repository not yet created). Local tests only: manifest valid JSON, skill and rule front matter valid (`tests/check_frontmatter.py`), and `tests/test_sentiment_server.py` started the example mood checker, listed its tool and got a real result through the official MCP Python client on this computer.
+- 2026-10-22: v1.0.0 built and pushed to GitHub. Local tests only: manifest valid JSON, skill and rule front matter valid (`tests/check_frontmatter.py`), and `tests/test_sentiment_server.py` started the example mood checker, listed its tool and got a real result through the official MCP Python client on this computer.
 
 **Pending**
 - Not tested inside Cursor or Grok yet (no in-app test has been done).
@@ -22,7 +22,7 @@ Pro MCP helps your AI assistant use small programs that run on your own computer
 3. Then ask: "What's the mood of: I love learning for free!"
 
 ## Installation
-Planned repository (not yet created; this is a local draft): https://github.com/OmnipotentCEOxJenny/pro-mcp (Cursor plugin format: `.cursor-plugin/plugin.json`, `skills/`, `rules/`). Free. No API keys, no accounts, no paid services. The example tool needs the free Python packages `gradio[mcp]` and `textblob`.
+Install from this repository: https://github.com/OmnipotentCEOxJenny/pro-mcp (Cursor plugin format: `.cursor-plugin/plugin.json`, `skills/`, `rules/`). Free. No API keys, no accounts, no paid services. The example tool needs the free Python packages `gradio[mcp]` and `textblob`.
 
 ## Testing
 1. `python3 tests/check_frontmatter.py` (needs PyYAML).
