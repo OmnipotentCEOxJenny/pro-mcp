@@ -5,7 +5,10 @@ Needs: gradio[mcp], textblob, mcp. Exit 0 = pass. This is a local test only;
 it is NOT an in-app (Cursor/Grok) test."""
 import asyncio, os, pathlib, subprocess, sys, time, urllib.request
 from mcp import ClientSession
-from mcp.client.streamable_http import streamablehttp_client
+try:  # mcp 1.x name
+    from mcp.client.streamable_http import streamablehttp_client as http_client
+except ImportError:  # mcp 2.x renamed it
+    from mcp.client.streamable_http import streamable_http_client as http_client
 
 root = pathlib.Path(__file__).resolve().parent.parent
 port = os.environ.get("PRO_MCP_PORT", "7871")
@@ -15,7 +18,8 @@ proc = subprocess.Popen([sys.executable, str(root / "scripts/sentiment_server.py
                         stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
 
 async def run():
-    async with streamablehttp_client(url) as (r, w, _):
+    async with http_client(url) as streams:
+        r, w = streams[0], streams[1]
         async with ClientSession(r, w) as s:
             await s.initialize()
             names = [t.name for t in (await s.list_tools()).tools]

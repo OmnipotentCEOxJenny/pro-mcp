@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.3 (2026-10-23)
+- Fix: `tests/test_sentiment_server.py` failed to import with the MCP Python SDK 2.x, which renamed `streamablehttp_client` to `streamable_http_client`. The test now works with both 1.x and 2.x. Found by the daily maintenance check. No change to the plugin's skills, rules or example server.
+- Local tests re-run and passed (mcp 1.30.0 end-to-end; mcp 2.3.0 client checked against the example server). Not tested in-app. Not submitted to the marketplace.
+
 ## 1.0.2 (2026-10-23)
 - Translations: each language section in TRANSLATIONS.md now starts with a one-line notice in that language saying it is a machine translation, not reviewed by a native speaker, and that the English version is authoritative. README Languages section notes this. No behavior changes.
 - Local tests re-run and passed. Not tested in-app. Not submitted to the marketplace.
