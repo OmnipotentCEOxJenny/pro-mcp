@@ -30,7 +30,7 @@ Install from this repository: https://github.com/OmnipotentCEOxJenny/pro-mcp (Cu
 3. Compare with `examples/mood-checker.md`.
 
 ## Search keywords
-mcp, mcp-server, model-context-protocol, local-tools, connect-tools, tool-calling, gradio, sentiment-analysis, mood-checker, ai-assistant, beginner-friendly, step-by-step, setup-helper, automation, python, privacy, runs-locally, free, no-api-key, multilingual, pro-mcp, jenny-echo, omnipotent-media, tool-connector, mcp-client, local-server, localhost, textblob, text-mood, setup-guide, troubleshooting, connection-check, plain-language, open-source, mit-license, cursor-plugin, python-functions, self-hosted. The full list with plain-word meanings is in [keywords.md](keywords.md).
+ModelContextProtocol, LocalTools, ConnectTools, ToolCalling, gradio, SentimentAnalysis, MoodChecker, AiAssistant, BeginnerFriendly, StepByStep, SetupHelper, automation, RunsLocally, NoApiKey, ProMcp, JennyEcho, OmnipotentCeo, OmnipotentMedia, ToolConnector, McpClient, LocalServer, localhost, textblob, TextMood, SetupGuide, troubleshooting, ConnectionCheck, OpenSource, MitLicense, CursorPlugin, PythonFunctions, SelfHosted, McpSetup, McpJson, FriendlyAdapter, LocalPrograms, ToolTesting, PythonTools, SentimentTool, ExampleServer. The full list with plain-word meanings is in [keywords.md](keywords.md).
 
 ## Credits
 - Inventor and publisher: Rob Domaine / Omnipotent Media LLC

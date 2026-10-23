@@ -1,7 +1,7 @@
 {
   "name": "pro-mcp",
   "displayName": "Pro MCP",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Free helper that lets your AI assistant use small programs running on your own computer, such as a mood checker for text. It walks you through setting one up, connecting it, and checking it works, step by step.",
   "author": {
     "name": "Rob Domaine / Omnipotent Media LLC"
@@ -26,7 +26,7 @@
     "automation",
     "RunsLocally",
     "NoApiKey",
-    "ProMCP",
+    "ProMcp",
     "JennyEcho",
     "OmnipotentCeo",
     "OmnipotentMedia",
@@ -43,6 +43,14 @@
     "MitLicense",
     "CursorPlugin",
     "PythonFunctions",
-    "SelfHosted"
+    "SelfHosted",
+    "McpSetup",
+    "McpJson",
+    "FriendlyAdapter",
+    "LocalPrograms",
+    "ToolTesting",
+    "PythonTools",
+    "SentimentTool",
+    "ExampleServer"
   ]
 }

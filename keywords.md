@@ -1,44 +1,46 @@
 # Pro MCP search keywords
 
-The same 38 keywords are stored in `.cursor-plugin/plugin.json` (`keywords`), so marketplace search can find Pro MCP.
+The same 40 keywords are stored in `.cursor-plugin/plugin.json` (`keywords`), so marketplace search can find Pro MCP. They follow Rob's keyword rules (Oct 22, 2026): single words lowercase, joined words PascalCase, no hyphens, spaces or commas, specific to Pro MCP; the only shared ones are ProMcp, JennyEcho and OmnipotentCeo.
 
 | Keyword | In plain words |
 |---|---|
-| mcp | The common "plug" standard AI assistants use to talk to tools |
-| mcp-server | A small program that offers tools to an assistant |
-| model-context-protocol | The full name of MCP |
-| local-tools | Tools that run on your own computer |
-| connect-tools | Hooking a tool up to your assistant |
-| tool-calling | The assistant pressing a tool's button for you |
+| ModelContextProtocol | The full name of MCP, the "plug" standard assistants use to talk to tools |
+| LocalTools | Tools that run on your own computer |
+| ConnectTools | Hooking a tool up to your assistant |
+| ToolCalling | The assistant pressing a tool's button for you |
 | gradio | The free Python kit the example tool is built with |
-| sentiment-analysis | Telling whether text sounds positive or negative |
-| mood-checker | Same thing, in everyday words |
-| ai-assistant | Who uses the tools |
-| beginner-friendly | No experience needed |
-| step-by-step | Guided setup |
-| setup-helper | Helps you get it running |
+| SentimentAnalysis | Telling whether text sounds positive or negative |
+| MoodChecker | Same thing, in everyday words |
+| AiAssistant | Who uses the tools |
+| BeginnerFriendly | No experience needed |
+| StepByStep | Guided setup |
+| SetupHelper | Helps you get it running |
 | automation | Let the assistant do small jobs for you |
-| python | The language the example is written in |
-| privacy | Your text stays on your computer |
-| runs-locally | Nothing is sent to an outside server |
-| free | No cost, no paid services |
-| no-api-key | No sign-up or key needed |
-| multilingual | Answers in your language |
-| pro-mcp | This plugin's name |
-| jenny-echo | The builder |
-| omnipotent-media | The publisher, Omnipotent Media LLC |
-| tool-connector | Connects tools to your assistant |
-| mcp-client | The side that calls a tool |
-| local-server | A tool program running on your computer |
-| localhost | This computer's own address (127.0.0.1) |
-| textblob | The free text library the mood checker uses |
-| text-mood | How a piece of writing sounds |
-| setup-guide | Step-by-step setup |
-| troubleshooting | Fixing common problems |
-| connection-check | Confirming a tool really works |
-| plain-language | Explained in everyday words |
-| open-source | Code anyone can read |
-| mit-license | Free to use and share |
-| cursor-plugin | Built in Cursor's plugin format |
-| python-functions | Turn your own Python code into a tool |
-| self-hosted | You run it yourself |
+| RunsLocally | The example runs on your computer |
+| NoApiKey | The example needs no paid key |
+| ProMcp | This plugin's name |
+| JennyEcho | The builder, Jenny Echo |
+| OmnipotentCeo | Rob Domaine, CEO of Omnipotent Media |
+| OmnipotentMedia | The publisher, Omnipotent Media LLC |
+| ToolConnector | What Pro MCP helps you build |
+| McpClient | The assistant side that calls the tool |
+| LocalServer | A tool server on your own machine |
+| localhost | The address of your own computer |
+| textblob | The free Python library the mood checker uses |
+| TextMood | The mood of a piece of text |
+| SetupGuide | Written steps to set it up |
+| troubleshooting | Fixing it when it does not connect |
+| ConnectionCheck | Making sure the tool really answers |
+| OpenSource | The code is public |
+| MitLicense | The free license it uses |
+| CursorPlugin | Built in the Cursor plugin format |
+| PythonFunctions | Plain Python functions become tools |
+| SelfHosted | You run it yourself |
+| McpSetup | Setting up an MCP tool |
+| McpJson | The settings file (.cursor/mcp.json) that lists your tools |
+| FriendlyAdapter | Pro MCP explained as a plug adapter |
+| LocalPrograms | Small programs on your computer |
+| ToolTesting | Checking a tool works before you rely on it |
+| PythonTools | Tools written in Python |
+| SentimentTool | The example mood tool |
+| ExampleServer | The included example tool server |
