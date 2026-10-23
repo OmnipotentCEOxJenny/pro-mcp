@@ -5,6 +5,8 @@
 The plugin's AI instructions tell it to answer in the user's language and keep commands, file names and setting names unchanged.
 
 ## Español (`es`)
+_Traducción automática, no revisada por un hablante nativo. La versión en inglés es la oficial._
+
 **Pro MCP**
 
 Pro MCP ayuda a tu asistente de IA a usar pequeños programas que funcionan en tu propio ordenador, como un detector del tono de un texto. Te guía paso a paso, gratis.
@@ -15,6 +17,8 @@ Pro MCP ayuda a tu asistente de IA a usar pequeños programas que funcionan en t
 - El detector de tono funciona mejor en inglés.
 
 ## Français (`fr`)
+_Traduction automatique, non relue par un locuteur natif. La version anglaise fait foi._
+
 **Pro MCP**
 
 Pro MCP aide votre assistant IA à utiliser de petits programmes qui tournent sur votre propre ordinateur, comme un détecteur d'humeur de texte. Il vous guide pas à pas, gratuitement.
@@ -25,6 +29,8 @@ Pro MCP aide votre assistant IA à utiliser de petits programmes qui tournent su
 - Le détecteur d'humeur fonctionne mieux en anglais.
 
 ## Português (`pt`)
+_Tradução automática, não revisada por um falante nativo. A versão em inglês é a oficial._
+
 **Pro MCP**
 
 O Pro MCP ajuda seu assistente de IA a usar pequenos programas que rodam no seu próprio computador, como um detector do tom de um texto. Ele guia você passo a passo, de graça.
@@ -35,6 +41,8 @@ O Pro MCP ajuda seu assistente de IA a usar pequenos programas que rodam no seu 
 - O detector de tom funciona melhor em inglês.
 
 ## Deutsch (`de`)
+_Maschinelle Übersetzung, nicht von Muttersprachlern geprüft. Maßgeblich ist die englische Fassung._
+
 **Pro MCP**
 
 Pro MCP hilft Ihrem KI-Assistenten, kleine Programme auf Ihrem eigenen Computer zu nutzen, etwa einen Stimmungsprüfer für Texte. Schritt für Schritt erklärt und kostenlos.
@@ -45,6 +53,8 @@ Pro MCP hilft Ihrem KI-Assistenten, kleine Programme auf Ihrem eigenen Computer 
 - Der Stimmungsprüfer funktioniert am besten auf Englisch.
 
 ## Italiano (`it`)
+_Traduzione automatica, non revisionata da un madrelingua. Fa fede la versione inglese._
+
 **Pro MCP**
 
 Pro MCP aiuta il tuo assistente IA a usare piccoli programmi che girano sul tuo computer, come un rilevatore del tono di un testo. Ti guida passo dopo passo, gratis.
@@ -55,6 +65,8 @@ Pro MCP aiuta il tuo assistente IA a usare piccoli programmi che girano sul tuo 
 - Il rilevatore di tono funziona meglio in inglese.
 
 ## Nederlands (`nl`)
+_Machinevertaling, niet nagekeken door een moedertaalspreker. De Engelse versie is leidend._
+
 **Pro MCP**
 
 Pro MCP helpt je AI-assistent kleine programma's te gebruiken die op je eigen computer draaien, zoals een stemmingscheck voor tekst. Stap voor stap uitgelegd en gratis.
@@ -65,6 +77,8 @@ Pro MCP helpt je AI-assistent kleine programma's te gebruiken die op je eigen co
 - De stemmingscheck werkt het best in het Engels.
 
 ## Polski (`pl`)
+_Tłumaczenie maszynowe, niesprawdzone przez rodzimego użytkownika języka. Wiążąca jest wersja angielska._
+
 **Pro MCP**
 
 Pro MCP pomaga asystentowi AI korzystać z małych programów działających na Twoim komputerze, na przykład z oceny nastroju tekstu. Prowadzi krok po kroku, za darmo.
@@ -75,6 +89,8 @@ Pro MCP pomaga asystentowi AI korzystać z małych programów działających na 
 - Ocena nastroju działa najlepiej po angielsku.
 
 ## Русский (`ru`)
+_Машинный перевод, не проверен носителем языка. Основной является английская версия._
+
 **Pro MCP**
 
 Pro MCP помогает вашему ИИ-ассистенту пользоваться небольшими программами на вашем компьютере, например определителем настроения текста. Пошаговые инструкции, бесплатно.
@@ -85,6 +101,8 @@ Pro MCP помогает вашему ИИ-ассистенту пользова
 - Определитель настроения лучше всего работает с английским.
 
 ## Українська (`uk`)
+_Машинний переклад, не перевірений носієм мови. Основною є англійська версія._
+
 **Pro MCP**
 
 Pro MCP допомагає вашому ШІ-асистенту користуватися невеликими програмами на вашому комп'ютері, наприклад визначником настрою тексту. Покрокові інструкції, безкоштовно.
@@ -95,6 +113,8 @@ Pro MCP допомагає вашому ШІ-асистенту користув
 - Визначник настрою найкраще працює з англійською.
 
 ## Türkçe (`tr`)
+_Makine çevirisidir, anadili bu dil olan biri tarafından incelenmemiştir. Geçerli olan İngilizce sürümdür._
+
 **Pro MCP**
 
 Pro MCP, yapay zekâ asistanınızın kendi bilgisayarınızda çalışan küçük programları kullanmasına yardım eder; örneğin bir metnin duygu tonunu ölçen bir araç. Adım adım ve ücretsiz.
@@ -105,6 +125,8 @@ Pro MCP, yapay zekâ asistanınızın kendi bilgisayarınızda çalışan küç�
 - Duygu ölçer en iyi İngilizcede çalışır.
 
 ## العربية (`ar`)
+_ترجمة آلية لم يراجعها متحدث أصلي. النسخة الإنجليزية هي المعتمدة._
+
 **Pro MCP**
 
 يساعد Pro MCP مساعد الذكاء الاصطناعي على استخدام برامج صغيرة تعمل على حاسوبك، مثل أداة تقيس مزاج النص. يرشدك خطوة بخطوة ومجانًا.
@@ -115,6 +137,8 @@ Pro MCP, yapay zekâ asistanınızın kendi bilgisayarınızda çalışan küç�
 - أداة المزاج تعمل بشكل أفضل مع الإنجليزية.
 
 ## עברית (`he`)
+_תרגום מכונה שלא נבדק על ידי דובר שפת אם. הגרסה האנגלית היא המחייבת._
+
 **Pro MCP**
 
 Pro MCP עוזר לעוזר הבינה המלאכותית שלך להשתמש בתוכנות קטנות שרצות על המחשב שלך, כמו בודק מצב רוח של טקסט. הדרכה צעד אחר צעד, בחינם.
@@ -125,6 +149,8 @@ Pro MCP עוזר לעוזר הבינה המלאכותית שלך להשתמש ב
 - בודק מצב הרוח עובד הכי טוב באנגלית.
 
 ## فارسی (`fa`)
+_ترجمه ماشینی است و توسط گویشور بومی بازبینی نشده است. نسخه انگلیسی معتبر است._
+
 **Pro MCP**
 
 Pro MCP به دستیار هوش مصنوعی شما کمک می‌کند از برنامه‌های کوچکی که روی رایانهٔ خودتان اجرا می‌شوند استفاده کند، مثل ابزاری که حال‌وهوای متن را می‌سنجد. گام‌به‌گام و رایگان.
@@ -135,6 +161,8 @@ Pro MCP به دستیار هوش مصنوعی شما کمک می‌کند از �
 - سنجش حال‌وهوا با انگلیسی بهتر کار می‌کند.
 
 ## हिन्दी (`hi`)
+_यह मशीनी अनुवाद है, किसी मूल भाषी ने इसकी समीक्षा नहीं की है। अंग्रेज़ी संस्करण ही प्रामाणिक है।_
+
 **Pro MCP**
 
 Pro MCP आपके AI सहायक को आपके अपने कंप्यूटर पर चलने वाले छोटे प्रोग्राम इस्तेमाल करने में मदद करता है, जैसे किसी टेक्स्ट का मूड बताने वाला टूल। कदम-दर-कदम, मुफ़्त।
@@ -145,6 +173,8 @@ Pro MCP आपके AI सहायक को आपके अपने कं�
 - मूड टूल अंग्रेज़ी में सबसे अच्छा काम करता है।
 
 ## বাংলা (`bn`)
+_এটি যন্ত্র-অনুবাদ, কোনো মাতৃভাষী এটি পর্যালোচনা করেননি। ইংরেজি সংস্করণটিই প্রামাণিক।_
+
 **Pro MCP**
 
 Pro MCP আপনার AI সহকারীকে আপনার নিজের কম্পিউটারে চলা ছোট প্রোগ্রাম ব্যবহার করতে সাহায্য করে, যেমন লেখার মেজাজ বোঝার টুল। ধাপে ধাপে, বিনামূল্যে।
@@ -155,6 +185,8 @@ Pro MCP আপনার AI সহকারীকে আপনার নিজে
 - মেজাজ টুল ইংরেজিতে সবচেয়ে ভালো কাজ করে।
 
 ## اردو (`ur`)
+_یہ مشینی ترجمہ ہے، کسی اہلِ زبان نے اس کا جائزہ نہیں لیا۔ انگریزی ورژن ہی مستند ہے۔_
+
 **Pro MCP**
 
 Pro MCP آپ کے AI اسسٹنٹ کو آپ کے اپنے کمپیوٹر پر چلنے والے چھوٹے پروگرام استعمال کرنے میں مدد دیتا ہے، جیسے کسی تحریر کا موڈ بتانے والا ٹول۔ قدم بہ قدم، مفت۔
@@ -165,6 +197,8 @@ Pro MCP آپ کے AI اسسٹنٹ کو آپ کے اپنے کمپیوٹر پر چ
 - موڈ ٹول انگریزی میں بہترین کام کرتا ہے۔
 
 ## 简体中文 (`zh-Hans`)
+_机器翻译，未经母语人士审校。以英文版本为准。_
+
 **Pro MCP**
 
 Pro MCP 帮助你的 AI 助手使用在你自己电脑上运行的小程序，比如判断文字情绪的工具。一步一步讲解，完全免费。
@@ -175,6 +209,8 @@ Pro MCP 帮助你的 AI 助手使用在你自己电脑上运行的小程序，�
 - 情绪工具对英文效果最好。
 
 ## 日本語 (`ja`)
+_機械翻訳であり、ネイティブスピーカーによる確認は受けていません。英語版が正式な版です。_
+
 **Pro MCP**
 
 Pro MCP は、AI アシスタントが自分のパソコンで動く小さなプログラム（たとえば文章の気分を判定するツール）を使えるようにします。手順を一つずつ案内し、無料です。
@@ -185,6 +221,8 @@ Pro MCP は、AI アシスタントが自分のパソコンで動く小さなプ
 - 気分判定ツールは英語で最もよく動きます。
 
 ## 한국어 (`ko`)
+_기계 번역이며 원어민의 검토를 받지 않았습니다. 영어판이 공식 버전입니다._
+
 **Pro MCP**
 
 Pro MCP은 AI 도우미가 내 컴퓨터에서 실행되는 작은 프로그램(예: 글의 기분을 판단하는 도구)을 사용할 수 있게 도와줍니다. 단계별 안내, 무료입니다.
@@ -195,6 +233,8 @@ Pro MCP은 AI 도우미가 내 컴퓨터에서 실행되는 작은 프로그램(
 - 기분 판단 도구는 영어에서 가장 잘 작동합니다.
 
 ## Bahasa Indonesia (`id`)
+_Terjemahan mesin, belum ditinjau oleh penutur asli. Versi bahasa Inggris adalah versi yang berlaku._
+
 **Pro MCP**
 
 Pro MCP membantu asisten AI Anda memakai program kecil yang berjalan di komputer Anda sendiri, misalnya alat pengecek suasana hati teks. Dipandu langkah demi langkah, gratis.
@@ -205,6 +245,8 @@ Pro MCP membantu asisten AI Anda memakai program kecil yang berjalan di komputer
 - Pengecek suasana hati paling baik untuk bahasa Inggris.
 
 ## Tiếng Việt (`vi`)
+_Bản dịch máy, chưa được người bản ngữ kiểm tra. Bản tiếng Anh là bản chính thức._
+
 **Pro MCP**
 
 Pro MCP giúp trợ lý AI của bạn dùng các chương trình nhỏ chạy trên chính máy tính của bạn, như công cụ đoán cảm xúc của văn bản. Hướng dẫn từng bước, miễn phí.
@@ -215,6 +257,8 @@ Pro MCP giúp trợ lý AI của bạn dùng các chương trình nhỏ chạy t
 - Công cụ cảm xúc hoạt động tốt nhất với tiếng Anh.
 
 ## Kiswahili (`sw`)
+_Tafsiri ya mashine, haijakaguliwa na mzungumzaji asilia. Toleo la Kiingereza ndilo rasmi._
+
 **Pro MCP**
 
 Pro MCP husaidia msaidizi wako wa AI kutumia programu ndogo zinazoendeshwa kwenye kompyuta yako mwenyewe, kama kipimo cha hisia za maandishi. Hatua kwa hatua, bure.
@@ -225,6 +269,8 @@ Pro MCP husaidia msaidizi wako wa AI kutumia programu ndogo zinazoendeshwa kweny
 - Kipimo cha hisia hufanya kazi vizuri zaidi kwa Kiingereza.
 
 ## Tagalog / Filipino (`tl`)
+_Makina ang nagsalin nito at hindi pa nasusuri ng katutubong tagapagsalita. Ang bersyong Ingles ang opisyal._
+
 **Pro MCP**
 
 Tinutulungan ng Pro MCP ang iyong AI assistant na gumamit ng maliliit na programang tumatakbo sa sarili mong computer, gaya ng pantukoy ng mood ng teksto. Hakbang-hakbang at libre.
