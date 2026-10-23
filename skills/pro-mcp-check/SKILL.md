@@ -5,7 +5,7 @@ description: Check that a local tool is really connected and working, and fix co
 
 # Check a local tool
 
-Follow `rules/pillars-and-scope.mdc`. Answer in the user's language.
+Follow `rules/scope.mdc`. Answer in the user's language.
 
 1. **Is it running?** Open `http://127.0.0.1:7861/` in a browser (or the address the user chose). No page means the program is not running: start it again.
 2. **Can the assistant see it?** List the tools. Expected: `sentiment_analysis` (or the user's tool names).

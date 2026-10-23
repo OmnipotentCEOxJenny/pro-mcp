@@ -37,16 +37,10 @@ ModelContextProtocol, LocalTools, ConnectTools, ToolCalling, gradio, SentimentAn
 - Builder: Jenny Echo
 - Modeled on the Gradio sentiment-analysis MCP server exercise in the free Hugging Face MCP Course (https://huggingface.co/learn/mcp-course). Pro MCP is independent and not endorsed by Hugging Face or Gradio.
 
-## Rob Domaine's four pillars
-1. Trustworthy, honest, real data, truthful: never claim a tool works until it has been seen working; report results exactly.
-2. Use only legitimate means: only tools you own or trust, free and local by default.
-3. Double-check everything: every connection is confirmed two ways (tool listed, test call answered).
-4. Stay within the law and rules always: local, county, state, federal and platform rules.
-
 ## Components
 - `skills/pro-mcp-connect`: set up and connect a local tool, step by step.
 - `skills/pro-mcp-check`: confirm a tool is connected and fix common problems.
-- `rules/pillars-and-scope.mdc`: the pillars and scope.
+- `rules/scope.mdc`: the scope.
 - `scripts/sentiment_server.py`: the example mood checker (local only, 127.0.0.1).
 - `tests/`: front-matter check and local end-to-end test.
 - `examples/mood-checker.md`: a real local run.

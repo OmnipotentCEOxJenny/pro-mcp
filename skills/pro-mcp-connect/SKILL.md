@@ -5,7 +5,7 @@ description: Set up a small tool on the user's own computer and connect it to th
 
 # Connect a local tool
 
-Follow `rules/pillars-and-scope.mdc`. Answer in the user's language and in plain words.
+Follow `rules/scope.mdc`. Answer in the user's language and in plain words.
 
 1. **Explain first (one or two sentences):** "A connector lets your assistant press a button on a small program that runs on your computer, and read the answer back. Nothing leaves your computer."
 2. **Check what is there:** Python 3.10 or newer (`python3 --version`). If missing, point to https://www.python.org/downloads/ (free).
